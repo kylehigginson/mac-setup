@@ -2,7 +2,7 @@
 
 My personal theme based on preferred colors and functions.
 
-<gif here>
+![](theme.gif)
 
 ## Install
 
